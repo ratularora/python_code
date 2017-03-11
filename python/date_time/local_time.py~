@@ -1,0 +1,4 @@
+import time
+
+print "time.localtime() : %s" % time.localtime()
+print time.strftime(time.localtime())

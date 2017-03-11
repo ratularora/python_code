@@ -1,0 +1,6 @@
+dt = {'Name': 'Zara', 'Age': 7};
+dfd = ['fdf',675]
+dict4 ='gfgdfg'
+print type(dict4)
+print type(dfd)
+print "Variable Type : %s" %  type (dt)

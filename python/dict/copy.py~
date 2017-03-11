@@ -1,0 +1,5 @@
+dict1 = {'e': 74,'a' :74, 'z': 74,'b':74};
+print dict1
+dict2 = dict1.copy()
+print "New Dictinary : %s" %  dict2
+

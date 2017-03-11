@@ -1,0 +1,6 @@
+# First random number
+import random
+print "random() : ", random.random()
+
+# Second random number
+print "random() : ", random.random()

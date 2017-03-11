@@ -1,0 +1,3 @@
+dict = {'Aame': 'Zara', 'zge': 7,'sds':56};
+print "Equivalent String : %s" % str(dict)
+print dict

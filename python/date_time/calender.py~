@@ -1,0 +1,12 @@
+import calendar
+
+cal = calendar.month(2016, 10)
+print "Here is the calendar:"
+print cal
+
+
+cal = calendar.prcal(2016, c=4,l=3,w=3)
+print "Here is the calendar:"
+print cal
+
+

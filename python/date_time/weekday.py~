@@ -1,0 +1,5 @@
+import calendar
+
+cal = calendar.weekday(2011,10,6)
+print "Here is the calendar:"
+print cal
